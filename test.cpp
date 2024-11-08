@@ -9,7 +9,7 @@ void swap(int& a, int b) {
 
 
 int main() {
-	int a = 4, b = 5;
+	int a = 1, b = 2;
 	swap(a, b);
 	cout << a << " " << b;
 }
